@@ -91,7 +91,7 @@ Our writing assistant is designed as an interconnected graph where each agent re
 - Start interacting with the writing assistant by following the instructions.
 - The app will open like this in your browser:
 
-![alt text](application.png)
+![alt text](application.PNG)
 
 - You can answer the questions from Chat History in order to proceed with the writing process.
 
